@@ -5,3 +5,4 @@ mellé még használt bojler is jár grátisz!
 # h e h e .
 no.
 # да.
+# Ello bello! Ez asztali
