@@ -4,3 +4,4 @@ ikt github bevezető gyakorlás
 mellé még használt bojler is jár grátisz!
 # h e h e .
 no.
+# да.
