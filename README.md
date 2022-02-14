@@ -6,3 +6,5 @@ mellé még használt bojler is jár grátisz!
 no.
 # да.
 # Ello bello! Ez asztali
+# Szia Lalyos! Tipszmikszűté'?
+Igen, bizony elvtárs!
