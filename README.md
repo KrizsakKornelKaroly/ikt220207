@@ -11,4 +11,4 @@ Igen, bizony elvtárs!
 # Moving Superchargers to gitt háb.
 Juhú
 Indoraptor for president!
-#Ezt bizony itthunró' csináltam.
+# Ezt bizony itthunró' csináltam.
